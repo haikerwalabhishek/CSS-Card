@@ -10,7 +10,7 @@ This repository displays stylish card designs made with HTML and CSS, showing ca
 ## Link:
 
 
-[https://haikerwalabhishek.github.io/Colorful-Sanskrit-Learn-the-Colors-in-Sanskrit/](https://haikerwalabhishek.github.io/Website-Homepage-using-Bootstrap-Examples-section/)
+[https://haikerwalabhishek.github.io/CSS-Card/](https://haikerwalabhishek.github.io/CSS-Card/)
 
 ## Preview:
 
