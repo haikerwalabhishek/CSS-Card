@@ -15,5 +15,5 @@ This repository displays stylish card designs made with HTML and CSS, showing ca
 ## Preview:
 
 
-<img src="https://github.com/haikerwalabhishek/Website-Homepage-using-Bootstrap-Examples-section/blob/main/bootstrap.png" height=300px width=500px>
+<img src="https://github.com/haikerwalabhishek/CSS-Card/blob/main/card.png" height=300px width=500px>
 
